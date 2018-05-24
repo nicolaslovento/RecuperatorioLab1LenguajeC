@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1525964704 source:c:\users\alumno\desktop\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1525964968 c:\users\alumno\desktop\parcial1\lib.h
+
+1525964636 source:c:\users\alumno\desktop\parcial1\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"lib.h"
+
+1526525509 source:c:\users\nico\desktop\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1526525067 c:\users\nico\desktop\parcial1\lib.h
+
+1526525575 source:c:\users\nico\desktop\parcial1\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"lib.h"
+	"time.h"
+
+1526525509 source:c:\users\nico\desktop\parcial1-estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1526525067 c:\users\nico\desktop\parcial1-estacionamiento\lib.h
+
+1526525575 source:c:\users\nico\desktop\parcial1-estacionamiento\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"lib.h"
+	"time.h"
+
+1527135049 source:c:\users\alumno\desktop\funciones-gen-master\parcial1-estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1527135049 c:\users\alumno\desktop\funciones-gen-master\parcial1-estacionamiento\lib.h
+
+1527135049 source:c:\users\alumno\desktop\funciones-gen-master\parcial1-estacionamiento\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"lib.h"
+	"time.h"
+
+1527135049 source:c:\users\alumno\desktop\parcial1-estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1527170506 c:\users\alumno\desktop\parcial1-estacionamiento\lib.h
+
+1527170421 source:c:\users\alumno\desktop\parcial1-estacionamiento\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"lib.h"
+	"time.h"
+
